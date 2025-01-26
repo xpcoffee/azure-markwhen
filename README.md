@@ -40,6 +40,20 @@ Replace `<organization>` with your Azure DevOps organization name and `<work-ite
 npm run start my-organization 12345
 ```
 
+```
+project Feature 1. Ship MVP
+group As a customer, I want nice things #Unassigned
+0 days: Nice thing 1
+0 days: Fix the pipeline
+0 days: Nice thing 2
+endGroup
+
+group As an operator, I need a dashboard #Unassigned
+0 days: API for dashboard #Unassigned
+0 days: Standard graphs for dashboard #Unassigned
+endGroup
+```
+
 ## License
 
 This project is licensed under the MIT License.
